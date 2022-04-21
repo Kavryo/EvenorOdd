@@ -2,7 +2,7 @@ package com.OddEven;
 
 import java.util.Scanner;
 
-public class Main {
+public class Oddeven {
     public static void main(String[] args) {
         System.out.print("Gimme a number: ");
         Scanner userInput = new Scanner(System.in);
