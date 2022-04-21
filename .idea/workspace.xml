@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79c2d34c-9add-41d2-a3cc-480f29277019" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oddoreven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/OddEven/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="79c2d34c-9add-41d2-a3cc-480f29277019" name="Changes" comment="Java program to tell if a user given no. is even or odd." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +55,28 @@
       <option name="presentableId" value="Default" />
       <updated>1650556517618</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java program to tell if a user given no. is even or odd.">
+      <created>1650557333187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650557333187</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java program to tell if a user given no. is even or odd.">
+      <created>1650557836833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650557836833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java program to tell if a user given no. is even or odd.">
+      <created>1650557870115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650557870115</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java program to tell if a user given no. is even or odd." />
+    <option name="LAST_COMMIT_MESSAGE" value="Java program to tell if a user given no. is even or odd." />
   </component>
 </project>
